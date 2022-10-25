@@ -1,2 +1,2 @@
 # minimoogclone
-Resource for Minimoog Clone Builders
+Resources for Minimoog Clone Builders
